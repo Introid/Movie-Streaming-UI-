@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Streaming</string>
+    <string name="text_view">Text View</string>
+    <string name="movie_name">Movie Name</string>
+</resources>
